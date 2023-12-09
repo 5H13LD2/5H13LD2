@@ -15,7 +15,7 @@ I am a passionate coder with a knack for database management. I enjoy unraveling
 - [Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate]([IBM DB0101EN Certificate | Cognitive Class](https://courses.cognitiveclass.ai/certificates/f4856ff476314c5b949d952e66bde9d9))
 - [Oracle Cloud Data Management 2023 Certified Foundations Associate](Certification_Link_2)
 - [Oracle Cloud Infrastructure 2023 Certified Foundations Associate](Certification_Link_3)
-- [SQL and Relational Databases 101](Certification_Link_4)
+- [SQL and Relational Databases 101]([Certification_Link_4](https://courses.cognitiveclass.ai/certificates/f4856ff476314c5b949d952e66bde9d9))
 
   
 ## Skill Sets
