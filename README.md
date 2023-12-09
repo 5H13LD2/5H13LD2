@@ -1,4 +1,6 @@
-# Hi there! 👋 I'm Jimenez, Jerico
+<h1 align="center">Hi 👋, I'm Jerico Jimenez</h1>
+<h3 align="center">A passionate frontend developer from Philippines</h3>
+
 
 I am a passionate coder with a knack for database management. I enjoy unraveling complex problems and creating elegant solutions. My tech journey began with the BS Information Technology program, and I've been exploring and growing ever since.
 
