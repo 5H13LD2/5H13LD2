@@ -29,5 +29,7 @@ I am a passionate coder with a knack for database management. I enjoy unraveling
 <a href="https://instagram.com/https://www.instagram.com/jerico0oo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/jerico0oo/" height="30" width="40" /></a>
 </p>
 
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jimenezjerico227@gmail.com)
+
 
 
