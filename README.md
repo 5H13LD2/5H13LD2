@@ -16,6 +16,7 @@ I am a passionate coder with a knack for database management. I enjoy unraveling
 - [Oracle Cloud Data Management 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=EE464362E4680A768C86D10628C774151D7DA29E09148A2A32DA44ADFBF56A28)
 - [Oracle Cloud Infrastructure 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=6AB2A8A86EFCC4832E3914C8164B569277C1EA88DC94D3ACB1CC6C72DD7D72AD)
 - [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/f4856ff476314c5b949d952e66bde9d9)
+- [NoSQL and DBaaS 101](https://courses.cognitiveclass.ai/certificates/c5fac9b9d1fc454e876c5d5cd0accd5f)
   
 ## Skill Sets
 
