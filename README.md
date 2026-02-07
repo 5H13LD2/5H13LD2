@@ -76,7 +76,7 @@ Building production-oriented web and mobile systems with a strong focus on **bac
 
 - [Data Analysis with Python – IBM / Cognitive Class](https://courses.cognitiveclass.ai/certificates/f4856ff476314c5b949d952e66bde9d9)
 
-- [React Developer Badge](https://www.credly.com/badges/baaaacf6-a9a5-45a5-9ed7-03e56442f41b)
+- [Ethical hacker - creedly](https://www.credly.com/badges/baaaacf6-a9a5-45a5-9ed7-03e56442f41b)
 
 
 ---
