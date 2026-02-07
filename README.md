@@ -10,7 +10,7 @@ Building production-oriented web and mobile systems with a strong focus on **bac
 
 ## 🧠 About Me
 
-- Final-year Computer Science student (Last Semester)
+- Final-year Information Technology (Last Semester)
 - Hands-on experience building **end-to-end systems** (mobile, web, backend)
 - Comfortable working with **authentication, APIs, databases, and logging**
 - Strong interest in **backend engineering, system design, and scalable applications**
