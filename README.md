@@ -68,20 +68,16 @@ Building production-oriented web and mobile systems with a strong focus on **bac
 
 ## 🎓 Certifications
 
-- **Oracle Cloud Infrastructure Foundations Associate**  
-  https://catalog-education.oracle.com/ords/certview/sharebadge?id=B047B5B4DED31FA80678C2AA9C98B795A1FBB6A47BDFB3234BF9300615840214
+- [Oracle Cloud Infrastructure Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=B047B5B4DED31FA80678C2AA9C98B795A1FBB6A47BDFB3234BF9300615840214)
 
-- **Oracle JavaScript Developer Professional**  
-  https://catalog-education.oracle.com/ords/certview/sharebadge?id=EE464362E4680A768C86D10628C774151D7DA29E09148A2A32DA44ADFBF56A28
+- [Oracle JavaScript Developer Professional](https://catalog-education.oracle.com/ords/certview/sharebadge?id=EE464362E4680A768C86D10628C774151D7DA29E09148A2A32DA44ADFBF56A28)
 
-- **Oracle Database SQL Expert**  
-  https://catalog-education.oracle.com/ords/certview/sharebadge?id=6AB2A8A86EFCC4832E3914C8164B569277C1EA88DC94D3ACB1CC6C72DD7D72AD
+- [Oracle Database SQL Expert](https://catalog-education.oracle.com/ords/certview/sharebadge?id=6AB2A8A86EFCC4832E3914C8164B569277C1EA88DC94D3ACB1CC6C72DD7D72AD)
 
-- **Data Analysis with Python (IBM / Cognitive Class)**  
-  https://courses.cognitiveclass.ai/certificates/f4856ff476314c5b949d952e66bde9d9
+- [Data Analysis with Python – IBM / Cognitive Class](https://courses.cognitiveclass.ai/certificates/f4856ff476314c5b949d952e66bde9d9)
 
-- **React Developer Badge**  
-  https://www.credly.com/badges/baaaacf6-a9a5-45a5-9ed7-03e56442f41b
+- [React Developer Badge](https://www.credly.com/badges/baaaacf6-a9a5-45a5-9ed7-03e56442f41b)
+
 
 ---
 
