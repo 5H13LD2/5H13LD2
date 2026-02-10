@@ -64,6 +64,9 @@ graduates
 - Built using **Laravel + MySQL**
 - Supported real-world HR and finance workflows
 - Assisted in production debugging, data migration, and feature enhancements
+- Developed a Payroll and HRIS system used by HR and Accounting teams to streamline payroll processing, reporting, 
+and payslip generation
+- Executed data migration from Excel to structured CRM systems.
 
 ---
 
