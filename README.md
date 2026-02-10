@@ -118,6 +118,7 @@ Issued: September 26, 2024
 
 📧 Email: jimenezjerico227@gmail.com  
 🔗 GitHub: https://github.com/5H13LD2/
+🔗 Gitlab: https://gitlab.com/jimenezjerico227
 
 ---
 
