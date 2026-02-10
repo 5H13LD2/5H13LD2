@@ -68,6 +68,11 @@ graduates
 and payslip generation
 - Executed data migration from Excel to structured CRM systems.
 
+Live Systems
+
+🔗 Admin CMS: https://admins-cms.vercel.app/
+🔗 HRIS Portal: https://hris.ciap.com.ph/login
+
 ---
 
 ## 🎓 Certifications
