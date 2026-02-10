@@ -54,7 +54,8 @@ Building production-oriented web and mobile systems with a strong focus on **bac
 - Backend LMS using **Node.js + Express** with **JWT-based authentication**
 - Web interface built with **React**, focusing on usability and performance
 - Integrated **Python & SQL execution** via Chaquopy for in-app coding practice
-- Added **structured logging** using Winston.js for debugging and observability
+- Designed and developed an end-to-end learning and interview preparation platform for IT students and fresh 
+graduates
 
 ---
 
