@@ -108,7 +108,7 @@ Issued: November 3, 2023
 **NoSQL and DBaaS 101 (DB0151EN)**  
 Cognitive Class / IBM Developer Skills Network  
 Issued: April 29, 2024  
-[ courses.cognitiveclass.ai ](https://courses.cognitiveclass.ai)
+[ courses.cognitiveclass.ai ](https://courses.cognitiveclass.ai/certificates/c5fac9b9d1fc454e876c5d5cd0accd5f?fbclid=IwY2xjawP_dO5leHRuA2FlbQIxMQBzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEe1_Q2g0et_DRDuDuqqUFT6DTmO9mAJINTYGz-Luygy5ZPAr1zzctqDv5P8Tk_aem_C0XjGKK5J7G9zrOa1qbB5Q)
 
 ---
 
