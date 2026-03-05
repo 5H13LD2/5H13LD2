@@ -5,6 +5,7 @@ Building production-oriented web and mobile systems with a strong focus on **bac
 
 📍 Philippines | 🌏 Open to International Remote Roles  
 🔗 LinkedIn: https://www.linkedin.com/in/jerico-jimenez-a504852a4/
+🔗 Portfolio: http://3.106.53.241/
 
 ---
 
