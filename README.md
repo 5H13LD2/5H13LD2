@@ -48,7 +48,7 @@ PostgreSQL • MySQL • Snowflake • Firebase Firestore
 ### 🔹 AWS E-Commerce Data Platform (End-to-End Pipeline)
 **Stack: Apache Airflow · Amazon RDS/PostgreSQL · Amazon S3 · AWS Glue · Amazon Athena · Apache Superset · Docker · Python · SQL · Parquet**
 
-🔗 [GitHub Repository](https://github.com/5H13LD2/)
+🔗 [GitHub Repository](https://github.com/5H13LD2/aws-rds-pipeline)
 
 - **Pipeline Orchestration:** Built a production-grade data pipeline using Apache Airflow, orchestrating batch workflows from Amazon RDS → S3 → Athena, including CTAS operations, partition management, and automated retry logic.
 - **Medallion Architecture:** Designed a scalable Bronze–Silver–Gold architecture on Amazon S3 using Parquet transformations and date partitioning, with Silver handling messy CSV fields via `TRY_CAST`, `TRIM`, and `regexp_replace`.
@@ -59,7 +59,7 @@ PostgreSQL • MySQL • Snowflake • Firebase Firestore
 ### 🔹 Cloud Data Pipeline (Enterprise Retail)
 **Stack: Apache Airflow · dbt · Snowflake · Amazon S3 · Docker · Python · SQL**
 
-🔗 [GitHub Repository](https://github.com/5H13LD2/)
+🔗 [GitHub Repository](https://github.com/5H13LD2/data_engineer_retail)
 
 - **End-to-End Orchestration:** Automated a multi-stage pipeline using Apache Airflow from S3 ingestion to Snowflake Gold tables.
 - **dbt Modeling:** Built Medallion Architecture (Bronze–Silver–Gold) with dbt, handling 12 source tables → 3 target models with idempotent processing.
